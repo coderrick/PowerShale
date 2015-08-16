@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "derrick.duncan@temple.edu",
+    "longName": "example1",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "example1",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "2219f3da-eda3-473c-a378-377918754fb4",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
